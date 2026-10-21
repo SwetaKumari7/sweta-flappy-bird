@@ -13,7 +13,7 @@ This is a small personal project built for practice and learning. The goal was t
 - Try to get the highest score!
 
 ## Feedback
-If you try the game, feel free to share your feedback. 😊
+If you try the game, feel free to share your feedback. 😊(This game may feel irritating,so play at your own risk)
 
 ---
 
